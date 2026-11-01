@@ -1,0 +1,1 @@
+window.ACCESS_SUPABASE_PUBLISHABLE_KEY = 'sb_publishable_1aiH7EnJyY7XtXYVbSWvjg_NIBK0kYz';
